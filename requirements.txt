@@ -1,0 +1,6 @@
+flask
+pandas
+scikit-learn
+textblob
+requests
+beautifulsoup4
